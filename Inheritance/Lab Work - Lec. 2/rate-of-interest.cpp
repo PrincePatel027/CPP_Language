@@ -3,7 +3,7 @@ using namespace std ;
 
 class RBI{
 	private:
-		int interest,amount=100000;
+		float interest,amount=100000;
 	public:
 		int amountSBI()
 		{
